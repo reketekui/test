@@ -148,7 +148,7 @@
     <display-name lang="es">Movistar Drama FULL HD</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <channel id="M.CineDocRoll FULL HD">
+  <channel id="M.CineDocRoll">
     <display-name lang="es">Movistar CineDoc&amp;Roll HD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" />
     <url>http://www.plus.es</url>
