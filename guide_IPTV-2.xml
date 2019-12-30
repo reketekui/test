@@ -87,7 +87,7 @@
     <display-name lang="es">#0 FULL HD</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <tvg-name="M.ESTRENOS FULL HD">
+  <channel id="M.ESTRENOS FULL HD">
     <display-name lang="es">Movistar Estrenos HD</display-name>
     <icon src="https://raw.githubusercontent.com/dracohe/picon/master/MV1.png" />
     <url>http://www.plus.es</url>
@@ -122,7 +122,7 @@
     <display-name lang="es">Movistar Accion FULL HD</display-name>
     <url>http://www.plus.es</url>
   </channel>
-  <tvg-name="M.COMEDIA FULL HD">
+  <channel id="M.COMEDIA FULL HD">
     <display-name lang="es">Movistar Comedia HD</display-name>
     <icon src="https://raw.githubusercontent.com/dracohe/picon/master/CPCOME.png" />
     <url>http://www.plus.es</url>
