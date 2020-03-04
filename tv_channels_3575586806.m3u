@@ -143,7 +143,7 @@ http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=356&t=live&f=ts
 #EXTINF:-1 tvg-name="LA SEXTA FULL HD" tvg-logo="" group-title="MOVISTAR+",LA SEXTA FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3798&t=live&f=ts
-#EXTINF:-1 tvg-name="#0 4K" tvg-logo="" group-title="MOVISTAR+",#0 4K
+#EXTINF:-1 tvg-id="Hashtag0.es" tvg-name="#0 4K" tvg-logo="" group-title="MOVISTAR+",#0 4K
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26172&t=live&f=ts
 #EXTINF:-1 tvg-name="LA 1 4K" tvg-logo="" group-title="MOVISTAR+",LA 1 4K
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26150&t=live&f=ts
@@ -157,15 +157,15 @@ http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26154&t=live&f=ts
 #EXTINF:-1 tvg-name="LA SEXTA 4K" tvg-logo="" group-title="MOVISTAR+",LA SEXTA 4K
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26155&t=live&f=ts
-#EXTINF:-1 tvg-name="M. SERIES 4K" tvg-logo="" group-title="MOVISTAR+",M. SERIES 4K
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="M. SERIES 4K" tvg-logo="" group-title="MOVISTAR+",M. SERIES 4K
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26160&t=live&f=ts
-#EXTINF:-1 tvg-name="M. DRAMA 4K" tvg-logo="" group-title="MOVISTAR+",M. DRAMA 4K
+#EXTINF:-1 tvg-id="CanalPlusDCine.sp" tvg-name="M. DRAMA 4K" tvg-logo="" group-title="MOVISTAR+",M. DRAMA 4K
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26159&t=live&f=ts
-#EXTINF:-1 tvg-name="M.COMEDIA 4K" tvg-logo="" group-title="MOVISTAR+",M.COMEDIA 4K
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="M.COMEDIA 4K" tvg-logo="" group-title="MOVISTAR+",M.COMEDIA 4K
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26158&t=live&f=ts
-#EXTINF:-1 tvg-name="M. ACCIÓN 4K" tvg-logo="" group-title="MOVISTAR+",M. ACCIÓN 4K
+#EXTINF:-1 tvg-id="CanalPlusAccion.es" tvg-name="M. ACCIÓN 4K" tvg-logo="" group-title="MOVISTAR+",M. ACCIÓN 4K
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26157&t=live&f=ts
-#EXTINF:-1 tvg-name="M.ESTRENOS 4K" tvg-logo="" group-title="MOVISTAR+",M.ESTRENOS 4K
+#EXTINF:-1 tvg-id="CanalPlusEstrenos.sp" tvg-name="M.ESTRENOS 4K" tvg-logo="" group-title="MOVISTAR+",M.ESTRENOS 4K
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26156&t=live&f=ts
 #EXTINF:-1 tvg-name="24/7 See" tvg-logo="" group-title="MOVISTAR+",24/7 See
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26165&t=live&f=ts
@@ -175,9 +175,9 @@ http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26161&t=live&f=ts
 #EXTINF:-1 tvg-name="24/7 The Witcher" tvg-logo="" group-title="MOVISTAR+",24/7 The Witcher
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26162&t=live&f=ts
-#EXTINF:-1 tvg-name="M.ESTRENOS HD" tvg-logo="" group-title="MOVISTAR+",M.ESTRENOS HD
+#EXTINF:-1 tvg-id="CanalPlusEstrenos.sp" tvg-name="M.ESTRENOS HD" tvg-logo="" group-title="MOVISTAR+",M.ESTRENOS HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=364&t=live&f=ts
-#EXTINF:-1 tvg-name="M.ESTRENOS FULL HD" tvg-logo="" group-title="MOVISTAR+",M.ESTRENOS FULL HD
+#EXTINF:-1 tvg-id="CanalPlusEstrenos.sp" tvg-name="M.ESTRENOS FULL HD" tvg-logo="" group-title="MOVISTAR+",M.ESTRENOS FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3805&t=live&f=ts
 #EXTINF:-1 tvg-id="CanalPlusAccion.es" tvg-name="M. ACCION HD" tvg-logo="" group-title="MOVISTAR+",M. ACCION HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=358&t=live&f=ts
@@ -191,17 +191,17 @@ http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=360&t=live&f=ts
 #EXTINF:-1 tvg-id="CanalPlusDCine.sp" tvg-name="M. DRAMA FULL HD" tvg-logo="" group-title="MOVISTAR+",M. DRAMA FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3801&t=live&f=ts
-#EXTINF:-1 tvg-name="M. Cine Espaol" tvg-logo="" group-title="MOVISTAR+",M. Cine Espaol
+#EXTINF:-1 tvg-id="DCineEsp.sp" tvg-name="M. Cine Espaol" tvg-logo="" group-title="MOVISTAR+",M. Cine Espaol
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=426&t=live&f=ts
-#EXTINF:-1 tvg-name="M. Cine Espaol FULL HD" tvg-logo="" group-title="MOVISTAR+",M. Cine Espaol FULL HD
+#EXTINF:-1 tvg-id="DCineEsp.sp" tvg-name="M. Cine Espaol FULL HD" tvg-logo="" group-title="MOVISTAR+",M. Cine Espaol FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3847&t=live&f=ts
-#EXTINF:-1 tvg-name="M.CineDoc&Roll HD" tvg-logo="" group-title="MOVISTAR+",M.CineDoc&Roll HD
+#EXTINF:-1 tvg-id="CanalPlusXtra.sp" tvg-name="M.CineDoc&Roll HD" tvg-logo="" group-title="MOVISTAR+",M.CineDoc&Roll HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=437&t=live&f=ts
-#EXTINF:-1 tvg-name="M.CineDoc&Roll FULL HD" tvg-logo="" group-title="MOVISTAR+",M.CineDoc&Roll FULL HD
+#EXTINF:-1 tvg-id="CanalPlusXtra.sp" tvg-name="M.CineDoc&Roll FULL HD" tvg-logo="" group-title="MOVISTAR+",M.CineDoc&Roll FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3850&t=live&f=ts
-#EXTINF:-1 tvg-name="M. SERIES HD" tvg-logo="" group-title="MOVISTAR+",M. SERIES HD
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="M. SERIES HD" tvg-logo="" group-title="MOVISTAR+",M. SERIES HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=362&t=live&f=ts
-#EXTINF:-1 tvg-name="M. SERIES FULL HD" tvg-logo="" group-title="MOVISTAR+",M. SERIES FULL HD
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="M. SERIES FULL HD" tvg-logo="" group-title="MOVISTAR+",M. SERIES FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3803&t=live&f=ts
 #EXTINF:-1 tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="MOVISTAR+",HOLLYWOOD HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=354&t=live&f=ts
@@ -223,9 +223,9 @@ http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=456&t=live&f=ts
 #EXTINF:-1 tvg-name="Sundance TV FULL HD" tvg-logo="" group-title="MOVISTAR+",Sundance TV FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3856&t=live&f=ts
-#EXTINF:-1 tvg-name="#0 HD" tvg-logo="" group-title="MOVISTAR+",#0 HD
+#EXTINF:-1 tvg-id="Hashtag0.es" tvg-name="#0 HD" tvg-logo="" group-title="MOVISTAR+",#0 HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=378&t=live&f=ts
-#EXTINF:-1 tvg-name="#0 FULL HD" tvg-logo="" group-title="MOVISTAR+",#0 FULL HD
+#EXTINF:-1 tvg-id="Hashtag0.es" tvg-name="#0 FULL HD" tvg-logo="" group-title="MOVISTAR+",#0 FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3818&t=live&f=ts
 #EXTINF:-1 tvg-name="M.Seriesmania HD" tvg-logo="" group-title="MOVISTAR+",M.Seriesmania HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=368&t=live&f=ts
@@ -477,9 +477,9 @@ http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=377&t=live&f=ts
 #EXTINF:-1 tvg-name="Viajar FULL HD" tvg-logo="" group-title="MOVISTAR+",Viajar FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3817&t=live&f=ts
-#EXTINF:-1 tvg-name="M. DISNEY" tvg-logo="" group-title="MOVISTAR+",M. DISNEY
+#EXTINF:-1 tvg-id="MovistarDisney.es" tvg-name="M. DISNEY" tvg-logo="" group-title="MOVISTAR+",M. DISNEY
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=409&t=live&f=ts
-#EXTINF:-1 tvg-name="Disney CH FULL HD" tvg-logo="" group-title="MOVISTAR+",Disney CH FULL HD
+#EXTINF:-1 tvg-id="DisneyChannel.sp" tvg-name="Disney CH FULL HD" tvg-logo="" group-title="MOVISTAR+",Disney CH FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3837&t=live&f=ts
 #EXTINF:-1 tvg-name="NICKELODEONHD" tvg-logo="" group-title="MOVISTAR+",NICKELODEONHD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=452&t=live&f=ts
@@ -505,7 +505,7 @@ http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=411&t=live&f=ts
 #EXTINF:-1 tvg-name="DISNEY CH HD" tvg-logo="" group-title="MOVISTAR+",DISNEY CH HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=434&t=live&f=ts
-#EXTINF:-1 tvg-name="M. Disney FULL HD" tvg-logo="" group-title="MOVISTAR+",M. Disney FULL HD
+#EXTINF:-1 tvg-id="MovistarDisney.es" tvg-name="M. Disney FULL HD" tvg-logo="" group-title="MOVISTAR+",M. Disney FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3848&t=live&f=ts
 #EXTINF:-1 tvg-name="CANAL PANDA" tvg-logo="" group-title="MOVISTAR+",CANAL PANDA
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=401&t=live&f=ts
@@ -545,9 +545,9 @@ http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3839&t=live&f=ts
 #EXTINF:-1 tvg-name="Clan TVE FULL HD" tvg-logo="" group-title="MOVISTAR+",Clan TVE FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3832&t=live&f=ts
-#EXTINF:-1 tvg-name="CANAL ODISEA" tvg-logo="" group-title="MOVISTAR+",CANAL ODISEA
+#EXTINF:-1 tvg-id="Odisea.sp" tvg-name="CANAL ODISEA" tvg-logo="" group-title="MOVISTAR+",CANAL ODISEA
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=399&t=live&f=ts
-#EXTINF:-1 tvg-name="Canal odisea FULL HD" tvg-logo="" group-title="MOVISTAR+",Canal odisea FULL HD
+#EXTINF:-1 tvg-id="Odisea.sp" tvg-name="Canal odisea FULL HD" tvg-logo="" group-title="MOVISTAR+",Canal odisea FULL HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=3829&t=live&f=ts
 #EXTINF:-1 tvg-name="CANAL DECASA" tvg-logo="" group-title="MOVISTAR+",CANAL DECASA
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=398&t=live&f=ts
@@ -595,7 +595,7 @@ http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=25869&t=live&f=ts
 #EXTINF:-1 tvg-name="Realmadrid TV HD" tvg-logo="" group-title="MOVISTAR+",Realmadrid TV HD
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=25867&t=live&f=ts
-#EXTINF:-1 tvg-name="PARAMOUNT NETWORK" tvg-logo="" group-title="MOVISTAR+",PARAMOUNT NETWORK
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="PARAMOUNT NETWORK" tvg-logo="" group-title="MOVISTAR+",PARAMOUNT NETWORK
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=25871&t=live&f=ts
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="" group-title="MOVISTAR+",DMAX
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=25857&t=live&f=ts
@@ -619,7 +619,7 @@ http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=446&t=live&f=ts
 #EXTINF:-1 tvg-name="Classica" tvg-logo="" group-title="MOVISTAR+",Classica
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=404&t=live&f=ts
-#EXTINF:-1 tvg-name="MTV ESPANA" tvg-logo="" group-title="MOVISTAR+",MTV ESPANA
+#EXTINF:-1 tvg-id="MTVEsp.sp" tvg-name="MTV ESPANA" tvg-logo="" group-title="MOVISTAR+",MTV ESPANA
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=447&t=live&f=ts
 #EXTINF:-1 tvg-name="BEINLALIGA 1 (SOLO EVENTOS)" tvg-logo="" group-title="MOVISTAR+",BEINLALIGA 1 (SOLO EVENTOS)
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=425&t=live&f=ts
@@ -649,7 +649,7 @@ http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26071&t=live&f=ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HEVC" tvg-logo="" group-title="MOVISTAR+",NATIONAL GEOGRAPHIC HEVC
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26070&t=live&f=ts
-#EXTINF:-1 tvg-name="NAT GEO WILD HEVC" tvg-logo="" group-title="MOVISTAR+",NAT GEO WILD HEVC
+#EXTINF:-1 tvg-id="NatGeoWild.sp" tvg-name="NAT GEO WILD HEVC" tvg-logo="" group-title="MOVISTAR+",NAT GEO WILD HEVC
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26069&t=live&f=ts
 #EXTINF:-1 tvg-name="M.SERIES HEVC" tvg-logo="" group-title="MOVISTAR+",M.SERIES HEVC
 http://panel.procaja.me/live/sup.php?z=997&u=691316603665655&s=968191950906606&id=26063&t=live&f=ts
@@ -1103,9 +1103,9 @@ http://panel.procaja.me/live/sup.php?z=111&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=111&u=691316603665655&s=968191950906606&id=6949&t=live&f=ts
 #EXTINF:-1 tvg-name="CHASSE ET PECHE Full HD" tvg-logo="" group-title="CANAL+",CHASSE ET PECHE Full HD
 http://panel.procaja.me/live/sup.php?z=111&u=691316603665655&s=968191950906606&id=6925&t=live&f=ts
-#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="" group-title="CANAL+",NAT GEO WILD
+#EXTINF:-1 tvg-id="NatGeoWild.sp" tvg-name="NAT GEO WILD" tvg-logo="" group-title="CANAL+",NAT GEO WILD
 http://panel.procaja.me/live/sup.php?z=111&u=691316603665655&s=968191950906606&id=239&t=live&f=ts
-#EXTINF:-1 tvg-name="NAT GEO WILD Full HD" tvg-logo="" group-title="CANAL+",NAT GEO WILD Full HD
+#EXTINF:-1 tvg-id="NatGeoWild.sp" tvg-name="NAT GEO WILD Full HD" tvg-logo="" group-title="CANAL+",NAT GEO WILD Full HD
 http://panel.procaja.me/live/sup.php?z=111&u=691316603665655&s=968191950906606&id=6929&t=live&f=ts
 #EXTINF:-1 tvg-name="NATIONAL GEO" tvg-logo="" group-title="CANAL+",NATIONAL GEO
 http://panel.procaja.me/live/sup.php?z=111&u=691316603665655&s=968191950906606&id=240&t=live&f=ts
