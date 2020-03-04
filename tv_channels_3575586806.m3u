@@ -2207,7 +2207,7 @@ http://panel.procaja.me/live/sup.php?z=998&u=691316603665655&s=968191950906606&i
 http://panel.procaja.me/live/sup.php?z=998&u=691316603665655&s=968191950906606&id=437&t=live&f=ts
 #EXTINF:-1 tvg-name="OSN Nickelodeon HD" tvg-logo="" group-title="ARABIC",OSN Nickelodeon HD
 http://panel.procaja.me/live/sup.php?z=998&u=691316603665655&s=968191950906606&id=436&t=live&f=ts
-#EXTINF:-1 tvg-name="OSN Paramount HD" tvg-logo="" group-title="ARABIC",OSN Paramount HD
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="OSN Paramount HD" tvg-logo="" group-title="ARABIC",OSN Paramount HD
 http://panel.procaja.me/live/sup.php?z=998&u=691316603665655&s=968191950906606&id=435&t=live&f=ts
 #EXTINF:-1 tvg-name="OSN Sky News HD" tvg-logo="" group-title="ARABIC",OSN Sky News HD
 http://panel.procaja.me/live/sup.php?z=998&u=691316603665655&s=968191950906606&id=431&t=live&f=ts
